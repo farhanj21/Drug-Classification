@@ -11,7 +11,7 @@ This project implements a simple feedforward neural network from scratch to pred
 ## Dataset
 The dataset used for this project is drug200.csv, which contains information on age, sex, blood pressure, cholesterol levels, sodium-to-potassium ratio, and the drug prescribed.
 
-##Installation
+## Installation
 To run this project, you need Python installed along with the libraries:
 You can install the required libraries using pip:
 ```bash
@@ -20,7 +20,7 @@ pip install pandas numpy scikit-learn
 
 ## Usage
 
-1.Clone this repository:
+1. Clone this repository:
 ```bash
 git clone https://github.com/farhanj21/Drug-Classification.git
 cd Drug-Classification
